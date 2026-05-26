@@ -1,0 +1,136 @@
+candidate_info:
+  name: "Ashutosh Sharma"
+  email: "ashusharma181996@gmail.com"
+  phone: "+91-8602228417"
+  location: "Navi Mumbai, Maharashtra, India"
+  linkedin: "www.linkedin.com/in/ashutosh-sharma-5034b5145"
+  github: "github.com/Ashu1896"
+  role_headline: "AWS Cloud Engineer | DevOps & Infrastructure Specialist"
+
+professional_summary:
+  base: "Results-driven AWS Cloud Engineer with 5+ years of experience designing, deploying, and optimizing scalable cloud infrastructure on AWS. Demonstrates strong expertise in core AWS services including EC2, S3, IAM, CloudWatch, RDS, and VPC, along with hands-on experience managing over 2000 Linux servers in enterprise-scale environments. Strong foundation in infrastructure automation using Ansible, Terraform, and Python/Bash, as well as implementing robust CI/CD pipelines and DevOps best practices. Proven track record of achieving 99.95% system uptime, reducing operational overhead by 40%, and accelerating deployment cycles by 75% through automation. Skilled in leveraging AWS CloudWatch for advanced observability, monitoring, and performance optimization in production systems."
+
+core_competencies:
+  aws_services: ["EC2", "S3", "IAM", "CloudWatch", "RDS", "VPC", "ELB", "Auto Scaling", "Lambda", "ECS", "Route 53", "SNS", "SQS", "CloudTrail", "Systems Manager"]
+  cloud_infrastructure: ["Cloud Architecture", "High Availability Design", "Disaster Recovery", "Multi-Region Deployments", "Hybrid Cloud"]
+  automation_iac: ["Terraform", "Ansible", "Bash Scripting", "Python", "CloudFormation", "Jenkins", "Git"]
+  linux_administration: ["RHEL 6/7/8/9", "Ubuntu 18/20/22", "Kernel Tuning", "LVM", "RAID", "systemd", "iptables/firewalld", "NFS/SAMBA", "DNS", "DHCP"]
+  monitoring_observability: ["AWS CloudWatch", "Dynatrace", "Datadog", "Nagios", "Prometheus", "Grafana", "APM", "RUM", "Synthetic Monitoring"]
+  security_compliance: ["IAM Policies", "PCI DSS", "CIS Benchmarks", "Security Hardening", "SSL/TLS", "PAM", "Vulnerability Patching", "Audit Logging"]
+  containers_devops: ["Docker", "Kubernetes", "Jenkins", "Git", "GitLab", "GitHub", "Infrastructure as Code", "Configuration Management"]
+  databases: ["MySQL", "RDS (AWS)"]
+  middleware_web: ["Apache HTTPD", "Nginx", "Apache Tomcat", "JBoss"]
+  scripting_automation: ["Bash Scripting", "Python Automation", "PowerShell"]
+
+professional_experience:
+  - company: "Quality Kiosk Technologies"
+    location: "Navi Mumbai, India"
+    role: "Senior Software Engineer"
+    duration: "November 2025 – Present"
+    highlights:
+      - description: "Architecting and managing AWS cloud infrastructure including EC2, S3, IAM, CloudWatch, and RDS for enterprise clients."
+        tags: ["aws", "cloud", "terraform", "sysadmin", "infrastructure"]
+      - description: "Implementing observability solutions using Dynatrace and AWS CloudWatch for real-time application and infrastructure monitoring."
+        tags: ["monitoring", "observability", "sre", "cloudwatch", "dynatrace"]
+      - description: "Driving automation initiatives using Ansible and Terraform to streamline cloud provisioning and configuration management."
+        tags: ["automation", "ansible", "terraform", "iac", "devops"]
+      - description: "Collaborating with development teams to integrate monitoring into CI/CD pipelines for shift-left observability."
+        tags: ["devops", "cicd", "monitoring", "jenkins", "collaboration"]
+
+  - company: "Capgemini"
+    location: "Pune, India"
+    role: "Senior Analyst – Linux & Cloud Infrastructure"
+    duration: "March 2022 – August 2025"
+    highlights:
+      - description: "Managed AWS cloud resources (EC2, S3, IAM, CloudWatch, RDS) supporting financial services and insurance core systems."
+        tags: ["aws", "cloud", "sysadmin", "finance"]
+      - description: "Administered 2000+ RHEL/Ubuntu production servers (50+ HP-UX, 30+ AIX, 28 Nutanix) achieving 99.95% uptime SLA."
+        tags: ["linux", "rhel", "sysadmin", "enterprise", "hardware"]
+      - description: "Led OS migration and upgrade project from RHEL 6 to RHEL 7 for 1000+ servers with zero downtime using Ansible and Bash scripting."
+        tags: ["linux", "rhel", "migration", "ansible", "bash"]
+      - description: "Optimized system performance through kernel parameter tuning, resulting in 25% improvement in application response times."
+        tags: ["linux", "rhel", "performance", "tuning"]
+      - description: "Reduced storage costs 30% by implementing automated log rotation and archival policies via Bash scripts and cron jobs."
+        tags: ["linux", "bash", "cron", "storage", "cost"]
+      - description: "Developed 50+ Ansible playbooks automating server provisioning and configuration, reducing deployment time from 4 hours to 30 minutes (75% reduction)."
+        tags: ["automation", "ansible", "devops", "deploy"]
+      - description: "Created Python-based monitoring scripts for anomaly detection, preventing 20+ potential outages monthly."
+        tags: ["automation", "python", "monitoring", "troubleshooting"]
+      - description: "Built self-healing scripts for common infrastructure issues, reducing ticket volume by 45% and saving 20 hours weekly."
+        tags: ["automation", "python", "bash", "troubleshooting"]
+      - description: "Reduced operational overhead 40% through comprehensive automation of daily health checks, reporting, and configuration management."
+        tags: ["automation", "ansible", "ops", "reporting"]
+      - description: "Engineered Bash script automating traffic failover between primary and DR sites, reducing RTO from 2 hours to 5 minutes."
+        tags: ["bash", "dr", "high_availability", "troubleshooting"]
+      - description: "Deployed Dynatrace OneAgent across Linux infrastructure providing real-time visibility into system and application metrics."
+        tags: ["monitoring", "observability", "dynatrace"]
+      - description: "Led migration from Dynatrace to Datadog for 1500+ servers, improving metric granularity and reducing monitoring costs by 40%."
+        tags: ["monitoring", "observability", "migration", "datadog", "cost"]
+      - description: "Created 15+ custom dashboards tracking CPU, memory, disk I/O, and network metrics for capacity planning."
+        tags: ["monitoring", "observability", "capacity"]
+      - description: "Configured intelligent alerting reducing false positives by 65% while maintaining 100% critical incident detection."
+        tags: ["monitoring", "observability", "incident"]
+      - description: "Performed root cause analysis for performance issues, identifying and resolving bottlenecks improving throughput by 35%."
+        tags: ["monitoring", "troubleshooting", "rca"]
+      - description: "Achieved 15-minute MTTR through proactive monitoring, automated health checks, and rapid incident response workflows."
+        tags: ["monitoring", "sre", "incident", "mttr"]
+      - description: "Hardened 200+ Linux servers per CIS benchmarks and PCI DSS requirements, achieving zero critical findings in security audits."
+        tags: ["security", "hardening", "linux", "compliance"]
+      - description: "Managed SSL certificate lifecycle and implemented automated renewal processes for 50+ applications."
+        tags: ["security", "ssl", "certificates", "automation"]
+      - description: "Established centralized logging using rsyslog, improving security incident detection by 60%."
+        tags: ["security", "logging", "rsyslog"]
+      - description: "Implemented centralized configuration management using Ansible, ensuring 100% compliance with security policies."
+        tags: ["security", "ansible", "compliance"]
+
+  - company: "Byju’s"
+    location: "Remote"
+    role: "Application Performance Monitoring Analyst"
+    duration: "February 2021 – October 2021"
+    highlights:
+      - description: "Monitored application performance and user enrolment processes for a high-traffic educational platform."
+        tags: ["monitoring", "observability", "apm"]
+      - description: "Tracked daily application metrics and user activity patterns using web-based monitoring and APM tools."
+        tags: ["monitoring", "observability", "apm"]
+      - description: "Generated automated HTML reports with student information and academic data, improving stakeholder visibility."
+        tags: ["automation", "reporting"]
+
+  - company: "Conneqt Business Solutions (Client: Tata Motors)"
+    location: "Pune, India"
+    role: "Technical Support Executive – Identity & Access"
+    duration: "November 2019 – July 2020"
+    highlights:
+      - description: "Managed user access provisioning and identity management through Additas ticketing system."
+        tags: ["security", "iam", "support"]
+      - description: "Implemented role-based access control policies and coordinated approval workflows with department heads."
+        tags: ["security", "iam", "compliance"]
+      - description: "Performed end-to-end user lifecycle management including account creation, modification, and deactivation."
+        tags: ["security", "iam", "operations"]
+
+education:
+  - degree: "Bachelor of Engineering in Computer Science"
+    institution: "Gyan Ganga Institute Of Technology & Sciences"
+    year: "2019"
+    gpa: "7.51 CGPA"
+
+certifications:
+  - name: "HashiCorp Certified: Terraform Associate"
+    issuer: "HashiCorp"
+    year: "2024"
+    status: "Completed"
+  - name: "ITIL Foundation v4"
+    issuer: "AXELOS"
+    year: "2023"
+    status: "Completed"
+  - name: "AWS Certified Solutions Architect – Associate"
+    issuer: "Amazon Web Services"
+    year: "2026"
+    status: "In Progress"
+  - name: "Dynatrace Associate"
+    issuer: "Dynatrace"
+    year: "2026"
+    status: "Completed"
+  - name: "Red Hat Certified System Administrator (RHCSA)"
+    issuer: "Red Hat"
+    year: "2026"
+    status: "In Progress"

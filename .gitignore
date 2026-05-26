@@ -1,0 +1,13 @@
+# Ignore sensitive credentials
+.env
+
+# Ignore python caching
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignore runtime log files
+*.log
+
+# Ignore local output builds (optional, keep if you want to store history in Git)
+# outputs/
